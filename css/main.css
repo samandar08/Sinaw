@@ -1,0 +1,528 @@
+body {
+    background-color:#171836;
+    font-family: Roboto;
+}
+.container {
+    max-width: 1440px;
+    max-height: 5053PX;
+    margin: 0 auto;
+}
+ul {
+    list-style: none;
+}
+.header {
+    display: flex;
+    margin-top: 20px;
+}
+.bolimlar {
+    display: flex;
+    gap: 44px;
+    margin-right: 449px;
+}
+.bolimlar-2 {
+    display: flex;
+}
+.Login-text {
+    background-color: #F5443B;
+    height: 41px;
+    width: 102px;
+    left: 1218px;
+    top: 19px;
+    border-radius: 6px;
+    padding: 12px 32px 12px 32px;
+    height: 17px;
+    width: 38px;
+    border-radius: nullpx;
+    color: #fff;
+    text-decoration: none;
+}
+.Eng-text {
+    height: 18px;
+    width: 22px;
+    left: 1127px;
+    top: 31px;
+    border-radius: nullpx;
+    margin-right: 18px;
+    color: #fff;
+}
+.sinaw-img {
+    margin-right: 148px;
+    margin-left: 120px;
+}
+.globe-img {
+    margin-top: 18px;
+    margin-right: 63px;
+}
+.Home-text {
+    color: #fff;
+    height: 17px;
+    width: 40px;
+}
+.student {
+    margin-left: 18px;
+    margin-top: 57px;
+}
+.text-rangi {
+    color: rgba(255, 255, 255, 0.6);
+}
+.malumot {
+    display: flex;
+}
+h1 {
+    height: 219px;
+    width: 484px;
+    font-family: Inter;
+    font-size: 56px;
+    font-weight: 600;
+    line-height: 73px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.8);
+    margin-top: 163px;
+    margin-bottom: 0px;
+}
+.We-have-text {
+    height: 27px;
+    width: 478px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    color: rgba(255, 255, 255, 0.4);
+    text-align: left;
+    margin-top: 24px;
+    margin-bottom: 78px;
+}
+.What-do-text {
+    height: 24px;
+    width: 213px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.4);
+    padding: 22px 261px 22px 32px;
+    display: flex;
+    margin: 0;
+}
+.lupa {
+    border-radius: 6px;
+    background: #282B57;
+    padding: 10px 10px;
+    margin-top: 12px;
+    margin-right: 12px;
+}
+.tablitsa {
+    display: flex;
+    background: #1F2143;
+    border-radius: 12px;
+}
+.Suggestions-text {
+    height: 27px;
+    width: 106px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.4);
+    margin-top: 48px;
+    margin-bottom: 0px;
+}
+.bolim-1 {
+    display: flex;
+    gap: 60px;
+    color: rgba(154, 156, 203, 0.6);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+}
+.UI-text {
+    height: 37px;
+    width: 123px;
+    left: 812px;
+    top: 715px;
+    border-radius: 8px;
+    padding: 8px 8px 8px 8px;
+    border: 1px solid rgba(154, 156, 203, 0.6);
+    height: 21px;
+    width: 87px;
+    margin-top: 34px;
+    margin-bottom: 0px;
+}
+.CSS_text {
+    height: 37px;
+    width: 154px;
+    left: 959px;
+    top: 715px;
+    border-radius: 8px;
+    padding: 8px 8px 8px 8px;
+    border: 1px solid rgba(154, 156, 203, 0.6);
+    height: 21px;
+    width: 118px;
+    margin-top: 34px;
+    margin-bottom: 0px;
+}
+.D-text {
+    height: 37px;
+    width: 178px;
+    left: 1137px;
+    top: 715px;
+    border-radius: 8px;
+    padding: 8px 8px 8px 8px;
+    border: 1px solid rgba(154, 156, 203, 0.6);
+    height: 21px;
+    width: 142px;
+    margin-top: 34px;
+    margin-bottom: 0px;
+}
+.Website-text {
+    height: 37px;
+    width: 181px;
+    left: 812px;
+    top: 776px;
+    border-radius: 8px;
+    padding: 8px 8px 8px 8px;
+    border: 1px solid rgba(154, 156, 203, 0.6);
+    height: 21px;
+    width: 145px;
+    margin-top: 24px;
+    margin-bottom: 0px;
+}
+.Logo-text {
+    height: 37px;
+    width: 119px;
+    left: 1017px;
+    top: 776px;
+    border-radius: 8px;
+    padding: 8px 8px 8px 8px;
+    border: 1px solid rgba(154, 156, 203, 0.6);
+    height: 21px;
+    width: 83px;
+    margin-top: 24px;
+    margin-bottom: 0px;
+}
+.Icon-text {
+    height: 37px;
+    width: 114px;
+    left: 1160px;
+    top: 776px;
+    border-radius: 8px;
+    padding: 8px 8px 8px 8px;
+    border: 1px solid rgba(154, 156, 203, 0.6);
+    height: 21px;
+    width: 78px;
+    margin-top: 24px;
+    margin-bottom: 0px; 
+}
+.Jamoa {
+    background: linear-gradient(180deg, #FF7D7D 0%, #2C2E59 100%);
+    padding: 20px 20.42px 21.42px 21px;
+    border: 1px solid;
+    border-image-source: linear-gradient(180deg, #FF7D7D 0%, #2C2E59 100%);
+    border-radius: 50%;
+
+}
+.malumot {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+.Det-New-text {
+    height: 30px;
+    width: 161px;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 0px;
+
+}
+.malumot-text-1 {
+    display: flex;
+    gap: 18px;
+    margin-left: 120px;
+}
+.You-will-text {
+    height: 72px;
+width: 311px;
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: rgba(255, 255, 255, 0.6);
+margin-top: 23px;
+margin-bottom: 0px;
+}
+.oqituvchi {
+    margin-left: 6px;
+    margin-right: 18px;
+}
+.malumot-1 {
+display: flex;
+margin-top: 281px;
+}
+.malumot-text-2 {
+    display: flex;
+}
+.Expert-text {
+    height: 30px;
+    width: 221px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 0px;
+    margin-top: 18px;
+}
+.kitob {
+    height: 24px;
+    width: 24px;
+    border-radius: 50%;
+    margin-right: 18px;
+}
+.Flexible {
+    height: 30px;
+    width: 151px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    color: rgba(255, 255, 255, 0.7);
+}
+.What-do-you {
+    margin: 0 auto;
+    height: 54px;
+    width: 495px;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 54px;
+    color: rgba(255, 255, 255, 0.8);
+    margin-top: 189px;
+    margin-bottom: 0px;
+}
+.Choose-the-text {
+    margin: 0 auto;
+    height: 27px;
+    width: 487px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.4);
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-right: 500px;
+}
+.tablitsa-1 {
+    background: linear-gradient(180deg, #202246 -53.38%, rgba(40, 43, 87, 0.17) 100%),
+    linear-gradient(180deg, rgba(50, 52, 101, 0.5) 0%, rgba(50, 52, 101, 0.15) 100%);
+    border: 3px solid;
+    border-image-source: linear-gradient(180deg, rgba(50, 52, 101, 0.5) 0%, rgba(50, 52, 101, 0.15) 100%);
+    padding: 12px 12px 12px 12px;
+    border-radius: 20px;
+}
+.Technology-text {
+    height: 18px;
+    width: 67px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    color: #3BF5BD;
+    text-align: left;
+    margin-top: 24ox;
+    margin-bottom: 0px;
+}
+.This-course-text {
+    height: 42px;
+    width: 250px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    color: rgba(255, 255, 255, 0.4);
+    text-align: left;
+    margin-bottom: 0px;
+    margin-top: 12px;
+}
+.Digital-text {
+    height: 27px;
+    width: 243px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    color: rgba(255, 255, 255, 0.8);
+    text-align: left;
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
+.Joey-text {
+    height: 21px;
+    width: 70px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    color: rgba(255, 255, 255, 0.8);
+    text-align: left;
+    margin-top: 1px;
+    margin-bottom: 0px;
+    margin-left: 15px;
+}
+span {
+    display: inline-block;
+    width: 252px;
+    height: 1px;
+    background-color: #292B56;
+}
+.Mentor-text{
+    height: 18px;
+    width: 41px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 0.4);
+    text-align: left;
+    margin-top: 2px;
+    margin-bottom: 0px;
+    margin-left: 15px;
+}
+.Acces-text {
+    height: 17px;
+    width: 91px;
+    font-family: Inter;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 6px;
+    padding: 12px 32px 12px 32px;
+    background: #F5443B;
+    margin-top: 28px;
+}
+.malumot-glavni {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    gap: 32px;
+}
+.Design-text {
+    height: 18px;
+    width: 40px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    color: #3BF5BD;
+    text-align: left;
+    margin-top: 24px;
+    margin-bottom: 0px;
+}
+.Figma-text {
+    height: 27px;
+    width: 243px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    color: rgba(255, 255, 255, 0.8);
+    text-align: left;
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
+.Araya {
+    height: 21px;
+    width: 83px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    color: rgba(255, 255, 255, 0.8);
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 15px;
+}
+.tablitsa-1-2 {
+    background: linear-gradient(180deg, #202246 -53.38%, rgba(40, 43, 87, 0.2) 100%);
+    height: 390px;
+    border-radius: 20px;
+    padding: 12px 12px;
+}
+.Coding-text {
+    height: 18px;
+    width: 42px;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    color: #3BF5BD;
+    text-align: left;
+    margin-top: 24px;
+    margin-bottom: 0px;
+}
+.HTML-text {
+    height: 27px;
+    width: 243px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    color: rgba(255, 255, 255, 0.8);
+    text-align: left;
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
+.Ellise-text {
+    height: 21px;
+    width: 70px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    color: rgba(255, 255, 255, 0.8);
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.Android-text {
+    height: 27px;
+    width: 243px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    color: rgba(255, 255, 255, 0.8);
+    text-align: left;
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
+.Wendy-text {
+    height: 21px;
+    width: 88px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    color: rgba(255, 255, 255, 0.8);
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.Show-all-text {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    background: #F5443B;
+    width: 120px;
+    border-radius: 6px;
+    padding: 16px 16px 16px 16px;
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 48px;
+    margin-bottom: 0px;
+}
